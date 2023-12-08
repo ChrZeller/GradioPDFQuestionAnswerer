@@ -1,0 +1,5 @@
+gradio
+transformers
+PyPDF2
+pdfminer.six
+
